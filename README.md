@@ -1,1 +1,3 @@
-Link Tagger for Medium.com paid posts.
+# google-link-tagger-extension
+
+Link Tagger Chrome Extension for Medium.com paid posts.
